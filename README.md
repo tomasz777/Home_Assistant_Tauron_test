@@ -9,7 +9,8 @@ Najpierw utwórz folder custom_components/tauron_sensor w katalogu konfiguracyjn
 Skopiuj kod z oryginalnego main.py do pliku custom_components/tauron_sensor/tauron_api.py.
 
 Dodaj konfigurację w pliku configuration.yaml:
-# Nie jest wymagane dla config_flow, ale możesz dodać ręcznie:
+
+Nie jest wymagane dla config_flow, ale możesz dodać ręcznie:
 tauron_sensor:
   username: twoj_login
   password: twoje_haslo
