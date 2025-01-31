@@ -1,0 +1,11 @@
+{
+  "domain": "tauron_sensor",
+  "name": "Tauron Energy Sensor",
+  "documentation": "https://github.com/your_username/tauron_sensor",
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "requirements": ["requests"],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
